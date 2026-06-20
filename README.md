@@ -1,7 +1,7 @@
 <p align="center">
   <img src="mygif.gif" alt="Greeting banner" width="400">
 </p>
-<h1 align="center">Hi there 👋 I'm Abdelwaheb Ben Haj Said</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jersey+25&duration=4000&pause=100&color=ACCAF7&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Abdelwaheb;Ben+Haj+Said)](https://git.io/typing-svg)
 
 <h3 align="center">🚀 AI & Big Data Engineer in training | LLMs • RAG • Full-Stack Development</h3>
 
