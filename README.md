@@ -55,7 +55,7 @@ Computer Science graduate specializing in Big Data & Data Analysis, and currentl
 <p>
   <img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white">
   <img src="https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white">
+  <img src="https://img.shields.io/badge/LlamaIndex-37D7FA?style=for-the-badge&logoColor=000">
   <img src="https://img.shields.io/badge/vLLM-6E40C9?style=for-the-badge&logo=vllm&logoColor=white">
   <img src="https://img.shields.io/badge/llama.cpp-000000?style=for-the-badge&logo=llama&logoColor=white">
   <img src="https://img.shields.io/badge/HuggingFace_TGI-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000">
