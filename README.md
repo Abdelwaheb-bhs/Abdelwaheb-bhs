@@ -3,20 +3,16 @@
 <h3 align="center">🚀 AI & Big Data Engineer in training | LLMs • RAG • Full-Stack Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/Abdelwaheb-bhs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://www.linkedin.com/in/Abdelwaheb-bhs](https://www.linkedin.com/in/abdelwaheb-ben-haj-said-ab9318273/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:abdulwahebbenhaj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="[#](https://abdelwaheb-bhs.github.io/Portfolio/#)"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently an **engineering student in Computer Engineering** at **ITT** (2025 – Present)
-- 📊 Graduated with a **Bachelor's degree in Big Data & Data Analysis** from **ISIMS Sfax** (2022 – 2025)
-- 🤖 Passionate about **AI, LLMs, RAG systems**, and **web/mobile app development**
-- 💼 AI Developer Intern at **Nvotec** (Paris, France – Remote), building production-grade RAG pipelines and LLM deployments
-- 📍 Based in Sfax, Tunisia
+Computer Science graduate specializing in Big Data & Data Analysis, and currently an Engineering Student in Computer Science. Passionate about AI, LLMs, and building web and mobile applications.
 - 🌐 Languages: Arabic (native), English (fluent), French (intermediate), Turkish (intermediate)
 
 ---
@@ -68,30 +64,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
   <img src="https://img.shields.io/badge/RunPod-6320EE?style=for-the-badge&logo=runpod&logoColor=white">
 </p>
-
----
-
-### 💼 Experience
-
-**AI Developer Intern (Final Year Project)** — *Nvotec, Paris, France (Remote)* — `02/2025 – 05/2025`
-- Designed and implemented a robust **RAG system** with a full document ingestion pipeline (PDF/Excel/Word extraction, cleaning, chunking, and vectorization)
-- Built web scraping pipelines, including for sites requiring authentication
-- Integrated **Qdrant** with **SQL Server Express** for synchronized storage and full CRUD support
-- Built a **Nuxt.js** frontend enabling users to upload, manage documents, and chat with an AI assistant
-- Deployed LLMs via scalable inference backends (**TGI**, **vLLM**, **llama.cpp**) using **Docker** and **RunPod**
-
-**Software Developer Intern (Summer)** — *Nvotec, Paris, France (Remote)* — `06/2024 – 08/2024`
-- Developed an **e-citizen platform** using Nuxt.js, Pinia, and Tailwind CSS, improving UI/UX and responsiveness
-- Fixed bugs and shipped new features, boosting overall platform performance
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🏥 **Medical Clinic Mobile App** | Patient tracking and appointment management app for medical clinics | Flutter, Laravel |
-| 🔬 **Medical Database Analysis** | App for precise sample analysis with illustrative visualizations and infection-extent reporting | Python, Flet |
 
 ---
 
