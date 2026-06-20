@@ -2,7 +2,7 @@
   <img src="mygif.gif" alt="Greeting banner" width="400">
 </p>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25&size=40&duration=4000&pause=100&color=ACCAF7&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Abdelwaheb;Ben+Haj+Said" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jersey+25&size=40&duration=4000&pause=100&color=ACCAF7&width=600&lines=Hi+there+%F0%9F%91%8B;I'm+Abdelwaheb;Ben+Haj+Said" alt="Typing SVG" /></a>
 </p>
 <h3 align="center">🚀 AI & Big Data Engineer in training | LLMs • RAG • Full-Stack Development</h3>
 
