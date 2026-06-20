@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="mygif.gif" alt="Greeting banner" width="400">
+</p>
 <h1 align="center">Hi there 👋 I'm Abdelwaheb Ben Haj Said</h1>
 
 <h3 align="center">🚀 AI & Big Data Engineer in training | LLMs • RAG • Full-Stack Development</h3>
